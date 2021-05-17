@@ -5,4 +5,8 @@ class UsersController < ApplicationController
         end
     end
 
+    def root 
+        render json: {message: "hello"}
+    end
+
 end
