@@ -1,0 +1,2 @@
+class IdCardsController < ApplicationController
+end

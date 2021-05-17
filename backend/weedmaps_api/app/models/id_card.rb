@@ -1,0 +1,2 @@
+class IdCard < ApplicationRecord
+end

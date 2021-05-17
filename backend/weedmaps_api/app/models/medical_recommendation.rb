@@ -1,0 +1,2 @@
+class MedicalRecommendation < ApplicationRecord
+end

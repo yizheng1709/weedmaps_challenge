@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rec_number: MyString
+  issuer: MyString
+  state: MyString
+  expiration_date: 2021-05-17
+  image_path: MyString
+
+two:
+  rec_number: MyString
+  issuer: MyString
+  state: MyString
+  expiration_date: 2021-05-17
+  image_path: MyString
